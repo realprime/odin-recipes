@@ -1,1 +1,2 @@
 # odin-recipes
+In this repository I used some of my learning from the odin project Foundation course. I used lists, heading, anchor and image tags to build a simple and small website on some of my favourite food recipes.
